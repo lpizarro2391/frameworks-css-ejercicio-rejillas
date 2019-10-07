@@ -10,7 +10,7 @@
 }
 [class*="col-"] {
     float: left;
-    padding: 5px;
+    padding: 0px;
     border: 1px solid black;
     min-height: 50px;
     height: 100%;
